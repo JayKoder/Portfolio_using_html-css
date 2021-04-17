@@ -1,0 +1,53 @@
+body {
+	background-color: white;
+	color: black;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin: 0px 70px;
+}
+header {
+	background-color: #2d2da3;
+	width: 1200px;
+	color:white;
+	font-size:larger;
+	justify-content: center;
+	text-align: center;
+	padding: 30px 0px 50px 0px;
+	margin-top: 70px;
+	margin-left: 10px;
+	line-height: 30px;
+}
+h5 {
+	background-color: #5959e4;
+	color: white;
+	font-family: sans-serif;
+	padding: 10px;
+	margin-top: 0px;
+	margin-left: 10px;
+	width: 1180px;	
+}
+p {
+	padding: 0px 23px 0px 23px;
+	line-height: 25px;
+}
+.space {
+	margin-top: 50px;
+}
+span {
+	float: right;
+}
+.lists li {
+	padding: 10px;
+}
+.list li {
+	padding: 10px;
+}
+.lists span {
+	padding-right: 40px;
+}
+.list span {
+	padding-right: 750px;
+}
+.end {
+	justify-content: right;
+	padding:50px;
+}
