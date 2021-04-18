@@ -51,3 +51,21 @@ span {
 	justify-content: right;
 	padding:50px;
 }
+
+@media (max-width: 900px) {
+	header{
+		width:500px;
+	}
+	h5{
+		width:480px;
+	}
+	p{
+		width:480px;
+	}
+	.lists{
+		width:480px;
+	}
+	.list{
+		width:max-content;
+	}
+}
